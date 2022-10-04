@@ -1,1 +1,1 @@
-# Python_tutorial_and_project
+# Python_tutorial
